@@ -21,7 +21,7 @@ The data within the training and testing pickle files is structured as detailed 
                               },                                                         
              'semantics_encoding': the Mean encoding of the scene semantics in the observation (3 time steps) and prediction (7) period 
                                    (10 semantic segmentation maps),
-             'semantics_encoding_sigma': the Variance encoding of the scene semantics in the observation (3 time steps) and prediction (7) period 
+             'semantics_encoding_sigma': the Standard Deviation encoding of the scene semantics in the observation (3 time steps) and prediction (7) period 
                                    (10 semantic segmentation maps),
              'the_first_image_id': the image ID for the first timestep observation (e.g., 1-4-6601) consists of the image's storage location (1-4) and its sampling ID (6601). Images are sampled from the video at 2fps (e.g., frames 1, 16, ...).
             },
