@@ -1,6 +1,6 @@
 # EgoWalkTrajPred
 
-Here is the GitHub repository for our paper, "Int2World: Egocentric Trajectory Prediction via Latent Intention-aware Interactive World Model" (Rongfeng Zhu, Bo Zhang, Anwar Saeed, Hongbo Liu and Ruili Wang):
+Here is the GitHub repository for our paper, "Int2World: Egocentric Trajectory Prediction via Latent Intention-aware Interactive World Model" (Rongfeng Zhu, Bo Zhang, Anwar Saeed, Naiyao Wang, Hongbo Liu and Ruili Wang):
 
 Examples of the EgoWalk video data is available for download at [Link 1](https://drive.google.com/drive/folders/1jNs6y97eu1keCNyBiOCdzJE6CLLNLmzO?usp=sharing).
 
